@@ -12,7 +12,7 @@
   # Click on the github link above to see codes and example outputs!
 
 - layout: left
-  company: Examples for Actuarial Data Science by Swiss Association of Actuaries 精算資料科學的應用
+  company: Examples for Actuarial Data Science by Swiss Association of Actuaries  #精算資料科學的應用
   # link: https://drive.google.com/drive/folders/1DeMCJPetOc0Aq5RZEnFBCb7n4_ozlXHO?usp=sharing
   # github: github.com/kuanmin/projects/blob/master/README.md
   # job_title: <mark>SAS</mark>
@@ -20,40 +20,41 @@
   # dates: <i> March</i> <br> <i> ddddddd</i> 
   description: | # this will include new lines to allow paragraphs
 
-    use CNN to detect anomalies in mortality rates __------__ 運用神經網路偵測死亡率異常
+    use CNN to detect anomalies in mortality rates  #__------__ 運用神經網路偵測死亡率異常
 
-    use RNN to predict mortality rate __------__ 運用神經網路預測死亡率
+    use RNN to predict mortality rate  #__------__ 運用神經網路預測死亡率
 
-    use XGBoost and AdaBoost to predict the probability of claims occurrence __------__ 運用集成學習預測理賠機率
+    use XGBoost and AdaBoost to predict the probability of claims occurrence  #__------__ 運用集成學習預測理賠機率
 
-    use GLM and ML for claim frequency modeling __------__ 運用GLM與機器學習建立理賠頻率模型
+    use GLM and ML for claim frequency modeling  #__------__ 運用GLM與機器學習建立理賠頻率模型
 
-    use GLM's MLE to speed up NN fitting __------__ 結合GLM與神經網路進行模型配適
+    use GLM's MLE to speed up NN fitting  #__------__ 結合GLM與神經網路進行模型配適
 
-    NLP application in client data __------__ 客戶資料的NLP應用
+    NLP application in client data  #__------__ 客戶資料的NLP應用
 
-    apply dimension reduction and clustering on client data __------__ 運用非監督式學習於保險資料之降維與聚類
+    apply dimension reduction and clustering on client data  #__------__ 運用非監督式學習於保險資料之降維與聚類
 
-    use XAI for claim frequency modeling __------__ 運用可解構AI建立理賠頻率模型
+    use XAI for claim frequency modeling  #__------__ 運用可解構AI建立理賠頻率模型
 
     [__link__](https://www.actuarialdatascience.org/ADS-Tutorials/)
 
 - layout: left
-  company: Examples for Machine Learning 機器學習的應用
+  company: Examples for Machine Learning  #機器學習的應用
   # link: https://drive.google.com/drive/folders/1DeMCJPetOc0Aq5RZEnFBCb7n4_ozlXHO?usp=sharing
   # github: github.com/kuanmin/projects/blob/master/README.md
   # job_title: <mark>SAS</mark>
   # dates: <i>SAS</i>
   # dates: <i> March</i> <br> <i> ddddddd</i> 
   description: | # this will include new lines to allow paragraphs
-    data cleaning 資料清理/ feature extraction 特徵提取/ modeling 模型建構/ validation模型驗證/ classification 分類/ clustering 聚類/ k-nearest neighbor (KNN) 近鄰分類/ Bayesian network 貝氏網路/ support vector machine (SVM) 支援向量機/
-
+    data cleaning/ feature extraction/ modeling/ validation/ classification/ clustering/ k-nearest neighbor (KNN)/ Bayesian network/ support vector machine (SVM)/
+ 
     [__link__](https://drive.google.com/drive/folders/1DeMCJPetOc0Aq5RZEnFBCb7n4_ozlXHO?usp=sharing)
 
     (Please open the file with "__Google Caloboratory__" and run on __Jupyter Notebook__.)
+# data cleaning 資料清理/ feature extraction 特徵提取/ modeling 模型建構/ validation模型驗證/ classification 分類/ clustering 聚類/ k-nearest neighbor (KNN) 近鄰分類/ Bayesian network 貝氏網路/ support vector machine (SVM) 支援向量機/
 
 - layout: left
-  company: Projects & Works 作品集
+  company: Projects & Works  #作品集
   # link: https://github.com/kuanmin/projects/blob/master/README.md
   # github: github.com/kuanmin/projects/blob/master/README.md
   # job_title: [link](https://github.com/kuanmin/projects/blob/master/README.md)

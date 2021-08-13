@@ -1,5 +1,5 @@
 - layout: left
-  name: University of Mannheim<br>德國曼海姆大學
+  name: University of Mannheim #<br>德國曼海姆大學
   link: www.uni-mannheim.de
   dates: 2017 - 2020
   qualification: MSc Data Science
@@ -11,7 +11,7 @@
     <br><mark>data management</mark> <mark>data analysis</mark> <mark>machine learning</mark>
 
 - layout: left
-  name: National Chengchi University<br>國立政治大學
+  name: National Chengchi University #<br>國立政治大學
   link: www.nccu.edu.tw
   dates: 2011 - 2013
   qualification: MSc Statistics
@@ -23,7 +23,7 @@
     <br><mark>financial mathematics</mark> <mark>actuarial science</mark> <mark>statistical analysis</mark><br> 3.98 (GPA)
 
 - layout: left
-  name: National Chiao Tung University<br>國立交通大學
+  name: National Chiao Tung University #<br>國立交通大學
   link: www.nctu.edu.tw/en
   dates: 2005 - 2009
   qualification: BSc Information and Finance Management
