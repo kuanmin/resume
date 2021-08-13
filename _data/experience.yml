@@ -9,19 +9,19 @@
   description: | # this will include new lines to allow paragraphs
     <b>Coordinate and facilitate the industrial implementation of Insurance Capital Standards (ICS 2.0) in Taiwan, duties include but not limited to translating ICS 2.0 standards and lecturing to the industry, and facilitating quantitative impact analyses (QIS) in 2021.</b>
 
-    <br>
+  #   <br>
     <b>Facilitate the annual review process of Appointed Actuary report (AA Report) and Risk-Based Capital standards (RBC) in Taiwan.</b>
 
-    <br>
+  #   <br>
     <b>Facilitate the industrial implementation of IFRS 17 in Taiwan.</b>
 
-    <br>
+  #   <br>
     <b>Perform asset and liability modeling with Python and Matlab.</b>
 
-    <br>
+  #   <br>
     <b>Conduct ad-hoc research requested from the Insurance Bureau.</b>
 
-    <br>
+  #   <br>
     <b>Programing:</b>
     - Python
     - Matlab
@@ -40,15 +40,15 @@
     <b>Apply latent semantic analysis to recover 83% of data.</b>
     - Due to a great amount of missing values for disease codes, further analyses are not applicable. Using MIMIC from MIT Lab, latent semantic analysis (LSA) was applied to recover the missing values. With this approach, the amount of available data increased by 83%.
     
-    <b>應用潛在語義分析增加有效數據量83%：</b>
-    - 由於醫療紀錄中，疾病代碼遣失，導致有效資料量過少、分析結果不具參考性。對疾病敘述進行潛在語義分析(LSA)分析，並輔以MIT麻省理工學院的MIMIC資料庫，還原疾病代碼，有效數據量增加83%。
+  #   <b>應用潛在語義分析增加有效數據量83%：</b>
+  #   - 由於醫療紀錄中，疾病代碼遣失，導致有效資料量過少、分析結果不具參考性。對疾病敘述進行潛在語義分析(LSA)分析，並輔以MIT麻省理工學院的MIMIC資料庫，還原疾病代碼，有效數據量增加83%。
 
     <br>
     <b>Apply text similarity algorithm to integrate 95% of data.</b>
     - Due to high-level data inconsistency in clients' demographic information and medical records, i.e., same meaning but different words or spelling, manpower for correction process was in high demand. Text similarity algorithms were applied; then 95% of data were integrated.
     
-    <b>應用字串相似度演算法整合多方資料達95%：</b>
-    - 同一事物具多種寫法，導致客戶資訊及理賠紀錄，高度缺乏一致性，也耗費大量人力成本進行整合。使用文字相似度演算法，進行辨識與標記。藉此方法，95%的資料得以整合。
+  #   <b>應用字串相似度演算法整合多方資料達95%：</b>
+  #   - 同一事物具多種寫法，導致客戶資訊及理賠紀錄，高度缺乏一致性，也耗費大量人力成本進行整合。使用文字相似度演算法，進行辨識與標記。藉此方法，95%的資料得以整合。
 
     <br>
     <b>Script in VBA and Python to 100% automatize format transformations.</b>
