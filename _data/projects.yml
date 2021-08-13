@@ -20,24 +20,33 @@
   # dates: <i> March</i> <br> <i> ddddddd</i> 
   description: | # this will include new lines to allow paragraphs
 
-    use CNN to detect anomalies in mortality rates  #__------__ 運用神經網路偵測死亡率異常
+    use CNN to detect anomalies in mortality rates 
 
-    use RNN to predict mortality rate  #__------__ 運用神經網路預測死亡率
+    use RNN to predict mortality rate  
 
-    use XGBoost and AdaBoost to predict the probability of claims occurrence  #__------__ 運用集成學習預測理賠機率
+    use XGBoost and AdaBoost to predict the probability of claims occurrence  
 
-    use GLM and ML for claim frequency modeling  #__------__ 運用GLM與機器學習建立理賠頻率模型
+    use GLM and ML for claim frequency modeling  
 
-    use GLM's MLE to speed up NN fitting  #__------__ 結合GLM與神經網路進行模型配適
+    use GLM's MLE to speed up NN fitting  
 
-    NLP application in client data  #__------__ 客戶資料的NLP應用
+    NLP application in client data  
 
-    apply dimension reduction and clustering on client data  #__------__ 運用非監督式學習於保險資料之降維與聚類
+    apply dimension reduction and clustering on client data  
 
-    use XAI for claim frequency modeling  #__------__ 運用可解構AI建立理賠頻率模型
+    use XAI for claim frequency modeling 
 
     [__link__](https://www.actuarialdatascience.org/ADS-Tutorials/)
 
+ #__------__ 運用神經網路偵測死亡率異常
+#__------__ 運用神經網路預測死亡率
+#__------__ 運用集成學習預測理賠機率
+#__------__ 運用GLM與機器學習建立理賠頻率模型
+#__------__ 結合GLM與神經網路進行模型配適
+#__------__ 客戶資料的NLP應用
+#__------__ 運用非監督式學習於保險資料之降維與聚類
+ #__------__ 運用可解構AI建立理賠頻率模型
+ 
 - layout: left
   company: Examples for Machine Learning  #機器學習的應用
   # link: https://drive.google.com/drive/folders/1DeMCJPetOc0Aq5RZEnFBCb7n4_ozlXHO?usp=sharing

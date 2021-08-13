@@ -4,11 +4,13 @@
   dates: 2017 - 2020
   qualification: MSc Data Science
   quote: >
-    University of Mannheim, the Harvard of Germany, is one of the leading higher education institutions in Germany.<br>德國曼海姆大學，享有「德國哈佛」的美譽，為德國領先的高等教育機構。
+    University of Mannheim, the Harvard of Germany, is one of the leading higher education institutions in Germany. 
   description: | # this will include new lines to allow paragraphs
     <mark>Master's thesis</mark> - <b>Revisiting Ensembles for Knowledge Graph Embeddings</b>
     <br>In this work, we study the ensembles in KGEs with better trained baselines. Additionally, fine-tune and joint learning were further experimented on ensembles. The study shows that, although ensembles generally outperformed single KGE models with better trained baselines, fine-tuning has shown minor progress comparing to established ensembles. Also, the approaches by joint learning lead to outputs inferior to established ensembles with the same training specification.
     <br><mark>data management</mark> <mark>data analysis</mark> <mark>machine learning</mark>
+# <br>德國曼海姆大學，享有「德國哈佛」的美譽，為德國領先的高等教育機構。
+
 
 - layout: left
   name: National Chengchi University #<br>國立政治大學
