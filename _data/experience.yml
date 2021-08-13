@@ -1,6 +1,37 @@
+
+- layout: left
+  company: Taiwan Insurance Institute<br>財團法人保險事業發展中心
+  link: https://www.tii.org.tw/tii/english/index.html
+  job_title: Researcher
+  dates: February 2021 - present
+  quote: >
+    The leading authority to regulatory policy settings in Taiwan
+  description: | # this will include new lines to allow paragraphs
+    <b>Coordinate and facilitate the industrial implementation of Insurance Capital Standards (ICS 2.0) in Taiwan, duties include but not limited to translating ICS 2.0 standards and lecturing to the industry, and facilitating quantitative impact analyses (QIS) in 2021.</b>
+
+    <br>
+    <b>Facilitate the annual review process of Appointed Actuary report (AA Report) and Risk-Based Capital standards (RBC) in Taiwan.</b>
+
+    <br>
+    <b>Facilitate the industrial implementation of IFRS 17 in Taiwan.</b>
+
+    <br>
+    <b>Perform asset and liability modeling with Python and Matlab.</b>
+
+    <br>
+    <b>Conduct ad-hoc research requested from the Insurance Bureau.</b>
+
+    <br>
+    <b>Programing:</b>
+    - Python
+    - Matlab
+    - Excel VBA
+    - R
+
+
 - layout: left
   company: Allianz Global Benefits<br>安聯集團
-  # link: www.allianzglobalbenefits.com
+  link: www.allianzglobalbenefits.com
   job_title: Data Analysis Intern
   dates: March 2019 - March 2020
   quote: >
