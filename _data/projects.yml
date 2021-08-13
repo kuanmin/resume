@@ -46,7 +46,7 @@
 #__------__ 客戶資料的NLP應用
 #__------__ 運用非監督式學習於保險資料之降維與聚類
  #__------__ 運用可解構AI建立理賠頻率模型
- 
+
 - layout: left
   company: Examples for Machine Learning  #機器學習的應用
   # link: https://drive.google.com/drive/folders/1DeMCJPetOc0Aq5RZEnFBCb7n4_ozlXHO?usp=sharing
@@ -57,7 +57,7 @@
   description: | # this will include new lines to allow paragraphs
     data cleaning/ feature extraction/ modeling/ validation/ classification/ clustering/ k-nearest neighbor (KNN)/ Bayesian network/ support vector machine (SVM)/
  
-    [__link__](https://drive.google.com/drive/folders/1DeMCJPetOc0Aq5RZEnFBCb7n4_ozlXHO?usp=sharing)
+    [__link__](https://drive.google.com/drive/folders/1CWdUKd6PY8Q9k2DJ6JzWQ95wn08O6DpR?usp=sharing)
 
     (Please open the file with "__Google Caloboratory__" and run on __Jupyter Notebook__.)
 # data cleaning 資料清理/ feature extraction 特徵提取/ modeling 模型建構/ validation模型驗證/ classification 分類/ clustering 聚類/ k-nearest neighbor (KNN) 近鄰分類/ Bayesian network 貝氏網路/ support vector machine (SVM) 支援向量機/
