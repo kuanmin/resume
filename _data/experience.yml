@@ -40,29 +40,21 @@
     <b>Apply latent semantic analysis to recover 83% of data.</b>
     - Due to a great amount of missing values for disease codes, further analyses are not applicable. Using MIMIC from MIT Lab, latent semantic analysis (LSA) was applied to recover the missing values. With this approach, the amount of available data increased by 83%.
     
-  #   <b>應用潛在語義分析增加有效數據量83%：</b>
-  #   - 由於醫療紀錄中，疾病代碼遣失，導致有效資料量過少、分析結果不具參考性。對疾病敘述進行潛在語義分析(LSA)分析，並輔以MIT麻省理工學院的MIMIC資料庫，還原疾病代碼，有效數據量增加83%。
 
     <br>
     <b>Apply text similarity algorithm to integrate 95% of data.</b>
     - Due to high-level data inconsistency in clients' demographic information and medical records, i.e., same meaning but different words or spelling, manpower for correction process was in high demand. Text similarity algorithms were applied; then 95% of data were integrated.
     
-  #   <b>應用字串相似度演算法整合多方資料達95%：</b>
-  #   - 同一事物具多種寫法，導致客戶資訊及理賠紀錄，高度缺乏一致性，也耗費大量人力成本進行整合。使用文字相似度演算法，進行辨識與標記。藉此方法，95%的資料得以整合。
 
     <br>
     <b>Script in VBA and Python to 100% automatize format transformations.</b>
     - Reporting process involved extracting data from database, transforming into reporting format, and uploading to reporting API. To improve efficiency, Scripting in VBA and Python was applied to 100% automatize format transformations.
     
-    <b>應用VBA及Python程式編寫，100%自動化作業流程：</b>
-    - 報表的製作，自資料庫提取到報表生成軟體，中間為人力使用excel進行資料重整、套入新格式。為提升作業效率，使用vba及python，將中間步驟自動化，100%取代人力。
 
     <br>
     <b>Build international databases in healthcare related topics to strengthen the capacity for client analysis and marketing strategy.</b>
     - To strengthen the capacity for client analysis and marketing strategy, databases were built with topics in health expenditure, claim amount, disease, and industry, according to multiple industrial classification standards and public health databases, i.e., WHO, OECD, MIMIC from MIT Lab.
     
-    <b>建立產業主題性國際資料庫、提升客群分析能量：</b>
-    - 為提升客群分析能量、強化行銷策略，進而參考多個國際產業分類標準(GICS)與國際健康醫療資料庫，如WHO, OECD，MIT麻省理工學院的MIMIC資料庫，建立醫療支出、理賠金額、疾病類別、產業分類等資料庫。
 
     <br>
     <b>Programing:</b>
@@ -70,6 +62,17 @@
     - R
     - SQL
     - Excel VBA
+
+  #   <b>應用潛在語義分析增加有效數據量83%：</b>
+  #   - 由於醫療紀錄中，疾病代碼遣失，導致有效資料量過少、分析結果不具參考性。對疾病敘述進行潛在語義分析(LSA)分析，並輔以MIT麻省理工學院的MIMIC資料庫，還原疾病代碼，有效數據量增加83%。
+  #   <b>應用字串相似度演算法整合多方資料達95%：</b>
+  #   - 同一事物具多種寫法，導致客戶資訊及理賠紀錄，高度缺乏一致性，也耗費大量人力成本進行整合。使用文字相似度演算法，進行辨識與標記。藉此方法，95%的資料得以整合。
+  #     <b>應用VBA及Python程式編寫，100%自動化作業流程：</b>
+  #     - 報表的製作，自資料庫提取到報表生成軟體，中間為人力使用excel進行資料重整、套入新格式。為提升作業效率，使用vba及python，將中間步驟自動化，100%取代人力。
+  #     <b>建立產業主題性國際資料庫、提升客群分析能量：</b>
+  #     - 為提升客群分析能量、強化行銷策略，進而參考多個國際產業分類標準(GICS)與國際健康醫療資料庫，如WHO, OECD，MIT麻省理工學院的MIMIC資料庫，建立醫療支出、理賠金額、疾病類別、產業分類等資料庫。
+
+
 
   # <br>
   # <b>Attend 2019 Allianz Global Data Summit in Munich, Germany.</b>
