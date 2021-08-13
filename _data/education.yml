@@ -1,0 +1,50 @@
+- layout: left
+  name: University of Mannheim<br>德國曼海姆大學
+  link: www.uni-mannheim.de
+  dates: 2017 - 2020
+  qualification: MSc Data Science
+  quote: >
+    University of Mannheim, the Harvard of Germany, is one of the leading higher education institutions in Germany.<br>德國曼海姆大學，享有「德國哈佛」的美譽，為德國領先的高等教育機構。
+  description: | # this will include new lines to allow paragraphs
+    <mark>Master's thesis</mark> - <b>Revisiting Ensembles for Knowledge Graph Embeddings</b>
+    <br>In this work, we study the ensembles in KGEs with better trained baselines. Additionally, fine-tune and joint learning were further experimented on ensembles. The study shows that, although ensembles generally outperformed single KGE models with better trained baselines, fine-tuning has shown minor progress comparing to established ensembles. Also, the approaches by joint learning lead to outputs inferior to established ensembles with the same training specification.
+    <br><mark>data management</mark> <mark>data analysis</mark> <mark>machine learning</mark>
+
+- layout: left
+  name: National Chengchi University<br>國立政治大學
+  link: www.nccu.edu.tw
+  dates: 2011 - 2013
+  qualification: MSc Statistics
+  quote: >
+    National Chengchi University is one of Taiwan's top universities and is well-known for its humanities and social sciences research.
+  description: | # this will include new lines to allow paragraphs
+    <mark>Master's thesis</mark> - <b>Forecasting of time series based on vector autoregression model and maximum cross-correlation</b>
+    <br>In this work, we provide a new multivariate-time series prediction method based on the concept of maximum cross-correlation, enhancing the prediction performance using vector autoregression model(VAR). Using the mean prediction squared errors (MPSE) as assessment criterion, the prediction method based on the maximum cross-correlation best performs under all prediction periods.
+    <br><mark>financial mathematics</mark> <mark>actuarial science</mark> <mark>statistical analysis</mark><br> 3.98 (GPA)
+
+- layout: left
+  name: National Chiao Tung University<br>國立交通大學
+  link: www.nctu.edu.tw/en
+  dates: 2005 - 2009
+  qualification: BSc Information and Finance Management
+  quote: >
+    National Chiao Tung University is one of the top educational institutions in Taiwan.
+  description: | # this will include new lines to allow paragraphs
+    3.65 (GPA)  <br>During college years, I acquired fundamental principles and practice in finance and information technology. 
+
+
+
+
+
+
+## ori
+# - layout: left
+#   name: Harvard University
+#   dates: 2010 - 2013
+#   qualification: BSc Computer Science
+#   quote: >
+#     Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+#   description: | # this will include new lines to allow paragraphs
+#     During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+#     I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.

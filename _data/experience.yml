@@ -1,0 +1,185 @@
+- layout: left
+  company: Allianz Global Benefits<br>安聯集團
+  # link: www.allianzglobalbenefits.com
+  job_title: Data Analysis Intern
+  dates: March 2019 - March 2020
+  quote: >
+    The Best in class global and local employee benefits solutions for multinational companies around the world.
+  description: | # this will include new lines to allow paragraphs
+    <b>Apply latent semantic analysis to recover 83% of data.</b>
+    - Due to a great amount of missing values for disease codes, further analyses are not applicable. Using MIMIC from MIT Lab, latent semantic analysis (LSA) was applied to recover the missing values. With this approach, the amount of available data increased by 83%.
+    
+    <b>應用潛在語義分析增加有效數據量83%：</b>
+    - 由於醫療紀錄中，疾病代碼遣失，導致有效資料量過少、分析結果不具參考性。對疾病敘述進行潛在語義分析(LSA)分析，並輔以MIT麻省理工學院的MIMIC資料庫，還原疾病代碼，有效數據量增加83%。
+
+    <br>
+    <b>Apply text similarity algorithm to integrate 95% of data.</b>
+    - Due to high-level data inconsistency in clients' demographic information and medical records, i.e., same meaning but different words or spelling, manpower for correction process was in high demand. Text similarity algorithms were applied; then 95% of data were integrated.
+    
+    <b>應用字串相似度演算法整合多方資料達95%：</b>
+    - 同一事物具多種寫法，導致客戶資訊及理賠紀錄，高度缺乏一致性，也耗費大量人力成本進行整合。使用文字相似度演算法，進行辨識與標記。藉此方法，95%的資料得以整合。
+
+    <br>
+    <b>Script in VBA and Python to 100% automatize format transformations.</b>
+    - Reporting process involved extracting data from database, transforming into reporting format, and uploading to reporting API. To improve efficiency, Scripting in VBA and Python was applied to 100% automatize format transformations.
+    
+    <b>應用VBA及Python程式編寫，100%自動化作業流程：</b>
+    - 報表的製作，自資料庫提取到報表生成軟體，中間為人力使用excel進行資料重整、套入新格式。為提升作業效率，使用vba及python，將中間步驟自動化，100%取代人力。
+
+    <br>
+    <b>Build international databases in healthcare related topics to strengthen the capacity for client analysis and marketing strategy.</b>
+    - To strengthen the capacity for client analysis and marketing strategy, databases were built with topics in health expenditure, claim amount, disease, and industry, according to multiple industrial classification standards and public health databases, i.e., WHO, OECD, MIMIC from MIT Lab.
+    
+    <b>建立產業主題性國際資料庫、提升客群分析能量：</b>
+    - 為提升客群分析能量、強化行銷策略，進而參考多個國際產業分類標準(GICS)與國際健康醫療資料庫，如WHO, OECD，MIT麻省理工學院的MIMIC資料庫，建立醫療支出、理賠金額、疾病類別、產業分類等資料庫。
+
+    <br>
+    <b>Programing:</b>
+    - Python
+    - R
+    - SQL
+    - Excel VBA
+
+  # <br>
+  # <b>Attend 2019 Allianz Global Data Summit in Munich, Germany.</b>
+  
+  # <b>出席安聯集團於德國慕尼黑舉辦的「2019全球資料科學高峰會」</b>
+
+# - layout: left
+#   company: Risk Management Dept., Cathy Life
+#   # company: Taiwan Life
+#   link: www.cathaylife.com.tw
+#   # link: www.taiwanlife.com
+#   job_title: Senior Actuarial Analyst
+#   dates: March 2016 - May 2016
+#   quote: >
+#     Cathy Life is Taiwan’s biggest life insurance company.
+#   description: | # this will include new lines to allow paragraphs
+#     Before I left for Germany, I joined Risk Management team. The position here relates much to finance. We work alongside Bloomberg terminals. With it, we monitor our underlying assets by the terminal with their face value, coupon rate, SSAP. To continue, we run general research on different listed asset classes, classify and store the information, i.e., non-agency or agency RMBS, ETFs, CMBS, (senior) secured or unsecured. We also analyze the impacts of IFRS 4 to the existing process and promising targets to invest onward.  
+
+
+
+
+
+
+
+- layout: left
+  company: Taiwan Life<br>台灣人壽
+  # company: Taiwan Life
+  link: www.taiwanlife.com
+  # link: www.taiwanlife.com
+  job_title: Analyst
+  dates: March 2015 - February 2016
+  quote: >
+    Taiwan Life belongs to Chinatrust Financial Holding (CFHC), one of Taiwan's largest financial services groups.
+  description: | # this will include new lines to allow paragraphs
+    <b>Enhance the sampling efficiency to improve accuracy of dividends by 82%.</b>
+    - Due to the increasing number of dividend policies, current sampling approach failed to effectively estimate the ratio of miscalculated dividends prior the actual payment, causing great labor inefficiency of correcting wrongly paid dividends. Taking into account the demographic information, line of business, and payment history, advanced sampling approach was applied. With the effort, the ratio of wrongly paid dividends deceased by 82%.
+
+    <b>提升抽樣檢測校果，減少人力成本、紅利發放錯誤率下降82%：</b>
+    - 原抽樣驗證方法，已無法有效檢誤，逐年增長的分紅保單件之紅利發放金額；發放金額錯誤率增加，隨之後續修正成本大幅提高。考量客戶資訊、險種、過去分紅紀錄，採用進階抽樣方法，錯誤率進而下降82%。
+
+    <br>
+    <b>Apply credibility analysis to select high-quality clients, and average cost per claim decrease by 37%.</b>
+    - Due to the poor KPI, average cost per claim, in group insurance, credibility analysis was applied to evaluate existing clients' performance. With high-quality clients selected, average cost per claim deceased by 37%.
+
+    <b>應用可信度分析，篩選出優質客戶、理賠金額減少37%：</b>
+    - 團險績效KPI之平均理賠金額逐年增加。為提升表現，應用可信度模型評估團險損益，進而篩選出優質團險客戶，平均理賠金額也下降37%。
+
+    <br>
+    <b>Apply vector autoregression model to improve client relationship management, and lapse rate decrease by 56%.</b>
+    - To keep the sales team up-to-date with potential risk regarding clients' status, so to improve client relationship management, vector autoregression (VAR) model was applied to model and predict lapse rate. As the analysis was provided to the sales team on a monthly basis, the yearly lapse rate decreased by 56%.
+
+    <b>應用向量自我迴歸模型，增進客戶關系管理、解約件數減少56%：</b>
+    - 為使前端銷售團隊能更佳精確掌握顧客的潛在走向，而能有效管理並留住客戶，因此為銷售部門提供每月的客戶續約率預測分析。應用向量自我迴歸模型，分析並預測各客戶群下一月份之脫退率，年度平均解約件數進而下降56%。
+
+    <br>
+    <b>Regularly conduct analyses.</b>
+    - Perform empirical analyses on morbidity rate, mortality rate, lapse rate, expense rate;
+    - Evaluate embedded value (EV), value of new business (VNB), fair value of liabilities, guaranty fund.
+
+    <b>定期進行分析：</b>
+    - 進行經驗率分析與檢討，目標包含死亡指數、罹病率、脫退率、費用率等；
+    - 分析與推估隱含價值(EV)、新契約價值、負債公允價值、安定基金。
+
+    <br>
+    <b>Programing 程式語言:</b>
+    - R
+    - SQL
+    - Excel VBA
+    - Linux Bash
+    - FoxPro
+
+
+
+
+
+
+- layout: left
+  company: Cathay Life<br>國泰人壽
+  # company: Taiwan Life
+  link: www.cathaylife.com.tw
+  # link: www.taiwanlife.com
+  job_title: Analyst
+  dates: July 2013 - February 2015
+  quote: >
+    Cathy Life is Taiwan’s biggest life insurance company.
+  description: | # this will include new lines to allow paragraphs
+    <b>Regularly review sale products and develop new products.</b>
+    - Analyze the financial performance under extreme scenarios, i.e., catastrophic claims, volatile interest rates;
+    - Analyze the profitability regarding the differences between nominal (assumed) and effective (empirical) rates, i.e., expense rate, mortality rate, interest rate.
+    
+    <b>定期檢視架上商品及開發新商品：</b>
+    - 針對費率差異、名目死亡率與經驗死亡率之差異、名目利率與市場利率之差異，分析獲利率；
+    - 於極端情境下(巨額理賠、市場利率大幅波動等)，測試公司財務表現狀況。
+
+    <br>
+    <b>Regularly review existing clients and explore new clients.</b>
+    - Apply statistical approaches to categorize clients on demographic information, line of business, amount insured, incidence rate, and so on;
+    - Apply qualitative analysis to fine grand the classification, i.e., confirmatory factor analysis (CFA), and structural equation modeling (SEM) analysis;
+    - Prototype new products and design marketing strategies.
+
+    <b>定期檢視現有客群及開發新客群：</b>
+    - 針對客戶基本資訊、購買險種、保額、發生率等，對客戶進行分群；
+    - 採用結構方程模型(SEM)、驗證性因素分析(CFA)等計量分析；
+    - 設計客製化商品、研究銷售策略。
+
+    <br>
+    <b>Regularly conduct market analyses.</b>
+    - Utilize open financial and economic database, Bloomberg terminals, and other search tools;
+    - Monitor the performance of investment instruments, i.e., RMBS, ETFs, CMBS;
+    - Perform economic analysis and risk assessment.
+
+    <b>定期進行金融市場分析：</b>
+    - 使用公開的經濟財金資料庫、Bloomberg終端機，和其它搜尋工具；
+    - 監測並分析投資部位之市場表現，如RMBS, ETFs, CMBS等；
+    - 總經與產業研究及風險評估。
+
+    <br>
+    <b>Perform compliance reviews and register new products.</b>
+
+    <b>商品送公家單位審查，並與資訊部合作，審查法令遵循條文規範、將商品上架網路平台。</b>
+
+    <br>
+    <b>Programing 程式語言:</b>
+    - R
+    - SAS
+    - SQL
+    - Excel VBA
+
+
+# While developing investment linked products (ILPs), our basic routines include weekly market research report, tracking performances of the underlying asset. We co-work consistently with sales team and IT team negotiating marketing strategies and improvements which are data process related. We also use key attributes queried from customer database to analyze lapse rate, default rate, empirical death rate, etc.
+
+
+
+
+## ori
+# - layout: left
+#   company: The Boring Company
+#   link: boringcompany.com
+#   job_title: Senior Network System Administrator
+#   dates: November 2017 - Present
+#   quote: >
+#    Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+#   description: | # this will include new lines to allow paragraphs
+#     Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.

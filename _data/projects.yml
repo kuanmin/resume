@@ -1,0 +1,191 @@
+# - layout: top-middle
+#   # name: Super Awesome Projects Over Here!
+#   link: https://github.com/kuanmin/projects/blob/master/README.md
+#   github: kuanmin/projects/blob/master/README.md
+#   quote: >
+#     These projects and works relate to my work and study.
+
+#     <br>Please click on the github link mark to see codes and example outputs.
+
+  # These projects relate to my work and study. Some are interesting, useful, and delicate, some reach positive and fruitful results, and some are rather challenging.
+  # I have learned many skills through them and I am very proud of having them in my portfolio.
+  # Click on the github link above to see codes and example outputs!
+
+- layout: left
+  company: Examples for Actuarial Data Science by Swiss Association of Actuaries 精算資料科學的應用
+  # link: https://drive.google.com/drive/folders/1DeMCJPetOc0Aq5RZEnFBCb7n4_ozlXHO?usp=sharing
+  # github: github.com/kuanmin/projects/blob/master/README.md
+  # job_title: <mark>SAS</mark>
+  # dates: <i>SAS</i>
+  # dates: <i> March</i> <br> <i> ddddddd</i> 
+  description: | # this will include new lines to allow paragraphs
+
+    use CNN to detect anomalies in mortality rates __------__ 運用神經網路偵測死亡率異常
+
+    use RNN to predict mortality rate __------__ 運用神經網路預測死亡率
+
+    use XGBoost and AdaBoost to predict the probability of claims occurrence __------__ 運用集成學習預測理賠機率
+
+    use GLM and ML for claim frequency modeling __------__ 運用GLM與機器學習建立理賠頻率模型
+
+    use GLM's MLE to speed up NN fitting __------__ 結合GLM與神經網路進行模型配適
+
+    NLP application in client data __------__ 客戶資料的NLP應用
+
+    apply dimension reduction and clustering on client data __------__ 運用非監督式學習於保險資料之降維與聚類
+
+    use XAI for claim frequency modeling __------__ 運用可解構AI建立理賠頻率模型
+
+    [__link__](https://www.actuarialdatascience.org/ADS-Tutorials/)
+
+- layout: left
+  company: Examples for Machine Learning 機器學習的應用
+  # link: https://drive.google.com/drive/folders/1DeMCJPetOc0Aq5RZEnFBCb7n4_ozlXHO?usp=sharing
+  # github: github.com/kuanmin/projects/blob/master/README.md
+  # job_title: <mark>SAS</mark>
+  # dates: <i>SAS</i>
+  # dates: <i> March</i> <br> <i> ddddddd</i> 
+  description: | # this will include new lines to allow paragraphs
+    data cleaning 資料清理/ feature extraction 特徵提取/ modeling 模型建構/ validation模型驗證/ classification 分類/ clustering 聚類/ k-nearest neighbor (KNN) 近鄰分類/ Bayesian network 貝氏網路/ support vector machine (SVM) 支援向量機/
+
+    [__link__](https://drive.google.com/drive/folders/1DeMCJPetOc0Aq5RZEnFBCb7n4_ozlXHO?usp=sharing)
+
+    (Please open the file with "__Google Caloboratory__" and run on __Jupyter Notebook__.)
+
+- layout: left
+  company: Projects & Works 作品集
+  # link: https://github.com/kuanmin/projects/blob/master/README.md
+  # github: github.com/kuanmin/projects/blob/master/README.md
+  # job_title: [link](https://github.com/kuanmin/projects/blob/master/README.md)
+  # dates: <i>SAS</i>
+  # dates: <i> March</i> <br> <i> ddddddd</i> 
+  description: | # this will include new lines to allow paragraphs
+    [__link__](https://github.com/kuanmin/projects/blob/master/README.md)
+
+
+
+# - layout: left
+#   company: Portfolio
+#   github: github.com/kuanmin/projects/blob/master/README.md
+#   job_title: <mark>SAS</mark>
+#   dates: <i>SAS</i>
+#   # dates: <i> March</i> <br> <i> ddddddd</i> 
+#   description: | # this will include new lines to allow paragraphs
+#     - Mass merchandisers need to provide the correct information about their products and services to customers. Thus, it is necessary to have the information to enable customers to meet their real needs and to discover the best way to satisfy and retain customers, as well as to follow consumer sentiment, which can provide early warnings of market conduct and performance. This study seeks to understand ways to retain customers and to identify their levels of contentment with mass merchandisers. The research also focused on helping managers assess and identify the major strengths of the critical success factors of merchandisers, so that the company can sustain and maintain the success it has achieved in the market.
+#     - In the present work, we study the causal effects from buildings and service to satisfaction, contentment and impression for <i>Costco</i>, <i>Carrefour</i>, and <i>a.mart</i>, using <b>reliability analysis</b>, <b>confirmatory factory analysis</b> (<b>CFA</b>), and <b>structural equation modeling</b> (<b>SEM</b>) analysis.
+
+
+# - layout: left
+#   company: Forecasting of Time Series based on VAR and Maximum Cross-correlation
+#   github: kuanmin/projects/tree/master/Thesis%20MSc%20Statistics
+#   job_title: <mark>R</mark>
+#   dates: MSc Statistics Thesis
+#   description: | # this will include new lines to allow paragraphs
+#     - Master Thesis - <b>Forecasting of Time Series based on Vector Autoregression Model and Maximum Cross-correlation</b>
+#     - The selection of methods plays an important role in the prediction based on time-series data. In most literature reviews, the <b>vector autoregression model</b> (<b>VAR</b>) has been a popular choice for prediction for many years. There are some disadvantages of this method: (<b>i</b>) <b>the model selection procedure can be really complex</b>; (<b>ii</b>) <b>the model assumptions are difficult to validate</b>; (<b>iii</b>) <b>it requires a large amount of data for model building</b>. The objective of this thesis is to provide an new multivariate-time series prediction method based on the concept of maximum cross-correlation. It requires merely the assumption of “fair linearity” between two time series under investigation. This thesis also compares the proposed method to the VAR model which is widely used in time series analysis with the expectation to provide a new prediction method in practical data analysis. We use data from the Taiwan equity funds and the portfolio of those funds to compare the prediction performances of these two methods. Using the <b>mean prediction squared errors</b> (<b>MPSE</b>) as assessment criterion, the prediction method based on the maximum cross-correlation best performs under all prediction periods.
+#     - <b>Granger causality</b>, <b>Vector Autoregression model</b> (<b>VAR model</b>), <b>Cross-correlation</b>, <b>Wald test</b>, <b>mean prediction squared error</b> (<b>MPSE</b>)
+
+
+
+# - layout: left
+#   company: Enhancement of LibKGE
+#   github: kuanmin/projects/tree/master/Thesis%20MSc%20Data%20Science
+#   job_title: <mark>Python</mark>
+#   dates: Master Thesis - Data Science
+#   description: | # this will include new lines to allow paragraphs
+#     - Master Thesis - <b>Revisiting Ensembles for Knowledge Graph Embeddings</b>
+#     - We study the ensembles in KGEs with better trained baselines. Additionally, fine-tune and joint learning were further experimented on ensembles. The study shows that, although ensembles generally outperformed single KGE models with better trained baselines, fine-tuning has shown minor progress comparing to established ensembles. Also, the approaches by joint learning lead to outputs inferior to established ensembles with the same training specification.
+#     - Open source LibKGE framework is a PyTorch-based library for efficient training, evaluation, and hyperparameter optimization of [knowledge graph embeddings](https://ieeexplore.ieee.org/document/8047276) (KGE). The key goal is to foster reproducible research into (as well as meaningful comparisons between) KGE models and training methods. As the authors argue in [ICLR 2020 paper](https://openreview.net/forum?id=BkxSmlBFvr), the choice of training strategy and hyperparameters are very influential on model performance, often more so than the model class itself.
+#     - I implement new functions to LibKGE, which will allow the New package to run training and validation, not just on single KGE model, but <i>multiple models</i> in one process, so to be able to performe <b>joint training</b> and <b>alternative training models</b>.
+
+
+# - layout: left
+#   company: Profitability & Statistical Analysis
+#   github: kuanmin/projects/tree/master/Profitability%20Analysis%20with%20Excel%20VBA
+#   job_title: <mark>Excel VBA</mark>
+#   # dates: <i> March</i> <br> <i> ddddddd</i> 
+#   description: | # this will include new lines to allow paragraphs
+#     - Our team of actuaries play a vital role in our organization. Our daily works relate to actuarial analysis, including <b>Modelling</b>, <b>Predicting</b>, <b>Profit and Surplus Analysis</b>, <b>Risk and Uncertainty</b>, and <b>Validation</b>. And Excel has been applied to parts of these tasks along with the use of VBA. Please see my GitHub for examples from my work.
+#     - Click on the github link to see the example outputs with <i>asset sheet</i>, <i>assumption</i>, <i>profit analysis</i>, <i>sensitivity test</i>.
+
+
+# - layout: left
+#   company: AI-Based Insurance Broker
+#   github: kuanmin/projects/tree/master/AI-Based%20Insurance%20Broker
+#   job_title: <mark>Java</mark>  <mark>JSON</mark>   <mark>JavaScript </mark>        
+#   dates: <i>Java AWT</i>/ <i>NetBeans</i>/ <i>MongoDB</i>/ <i>React</i>/ <i>Flask</i>
+#   description: | # this will include new lines to allow paragraphs
+#     - In this project, data knowledge related to <b>Ontology engineering</b> and <b>Multiple-criteria decision analysis</b> are applied. 
+#     - We want to shed light onto the current technological state of the insurance broker industry and how AI may transform it. Furthermore, we provide an Recommender System for dental insurances using the <b>Technique for Order of Preference by Similarity to Ideal Solution</b> (<b>TOPSIS</b>), a popular <b>Multiple Criteria Decision Making Method</b> (MCDM). In addition we design an architectural model which may serve as an example of how to implement an insurance recommender system as a web application with state of the art technology.
+
+
+# - layout: left
+#   company: Information Retrieval on NLTK corpora
+#   github: kuanmin/projects/tree/master/Information%20Retrieval
+#   job_title: <mark>Python</mark>
+#   # dates: <i> March</i> <br> <i> ddddddd</i> 
+#   description: | # this will include new lines to allow paragraphs
+#     - In this project, we discuss the implementation of a <b>Latent Semantic Indexing</b>-based information retrieval model, and evaluates its performance against the <b>Vector Space Model</b> on a collection with 18,828 documents.
+#     - We implement a LSI-based retrieval system. We expected it to outperform a traditional model like VSM due to its ability to uncover latent structures in the collection of documents. Unfortunately, our results largely did not agree with our expectations, which prompted a deeper analysis of the collection and the evaluation methodology. We found out that LSI heavily depends on the structure of the collection that it is applied on and it would be interesting to repeat the experiment with a different collection with exisiting relevance judgments.
+
+
+# - layout: left
+#   company: Data Infrastructure
+#   github: kuanmin/projects/tree/master/Data%20Infrastructure
+#   job_title: <mark>SQL</mark>
+#   dates: <i>PostgreSQL</i>
+#   description: | # this will include new lines to allow paragraphs
+#     - While working in the data team of Risk Management department, we deal with financial products and the transactions. Our work is to maintain and improve the data infrastructure of the settlement process. This involves <b>data pipeline</b>, <b>data checks</b>, <b>data modeling</b>, and <b>data warehouse</b>. Click on the github link to see the examples for <i>data pipeline</i> and <i>data model</i> from our work.
+
+
+# - layout: left
+#   company: Automated ICD Coding
+#   github: kuanmin/projects/tree/master/ICD%20matching
+#   job_title: <mark>Python</mark>
+#   # dates: <i> March</i> <br> <i> ddddddd</i> 
+#   description: | # this will include new lines to allow paragraphs
+#     - To reduce coding errors and cost, this is my attempt applying <b>Latent Semantic Indexing</b> to build an ICD coding machine which automatically and accurately translates the free-text diagnosis descriptions into ICD codes.
+
+
+# - layout: left
+#   company: Company Name Matching
+#   github: kuanmin/projects/tree/master/Company%20Name%20Matching
+#   job_title: <mark>Python</mark>
+#   # dates: <i> March</i> <br> <i> ddddddd</i> 
+#   description: | # this will include new lines to allow paragraphs
+#     - Some input data are built by handwriting and scanning afterwards or by typing, which might cause data inconsistency and wrong inputs. This will lead to tremendous problems for end users, such as product managers and analysts. We want to avoid any operational inefficiency involving manual correction or misleading statistics or analysis at the further end of the reporting process. Regarding company names, besides typo, different name suffix, such GmbH or Ltd, may cause issue of distinguishability. 
+#     - This is my attempt applying different type of <b>Identity Resolution</b> approaches, such as <b>jaccard</b>, <b>jaro winkler</b>, <b>hamming</b>, <b>levenshtein</b>, and <b>ratcliff obershelp</b>, to analyse the company name dataset. we also apply <b>Block methods</b> with criteria <i>country</i> to avoid unnecessary comparisons and reduce quadratic runtime complexity. The goal is to choose an approach to 1.)have the most similar with the similarity up to a threshold, and 2.)make sure the most similar has a certain level of difference between itself and the second most similar, so to perform precise classification.
+
+
+# - layout: left
+#   company: Recipe Finder
+#   github: kuanmin/projects/tree/master/Recipe%20Finder
+#   job_title: <mark>Java</mark> <mark>RDFS</mark>  <mark>SPARQL</mark>  <mark>SQL</mark>   <mark>JavaScript</mark>
+#   dates: <i>Apache Jena</i>
+#   description: | # this will include new lines to allow paragraphs
+#     - <q>Throw-away society</q> is a term often used to describe today's society. The German center for nutrition estimates that every year eleven million tonnes of food is thrown away in Germany alone. For the U.S., the figures are even worse: 150,000 tonnes of food is thrown away every day.
+#     - The biggest reason why ingredients are thrown away is that the quantity initially bought exceeded the actually required quantity for a given period of time. This might be either because of a special promotion, the product not being available in smaller units or just due to a lack of planning for the purchase. One way to reduce some of that waste would be to provide a way to use leftover food.
+#     - In our project, we achieved just that! We build an API using Apache Jena providing households with an easy way to find recipes incorporating food they need to either consume today or throw away tomorrow. We tapped into the power of the Semantic Web and developed an application which allows its users to browse recipes based on leftovers they might have in their kitchen, ultimately reducing food waste.
+#     - Apache Jena, a Java framework, is a well-known Semantic Web programming framework. In this project, data knowledge related to <b>Linked Open Data</b> and <b>Ontology engineering</b> are applied.
+
+
+# - layout: left
+#   company: Data & Matrix
+#   github: kuanmin/projects/tree/master/Data%20and%20Matrix
+#   job_title: <mark>R</mark>
+#   # dates: <i> March</i> <br> <i> ddddddd</i> 
+#   description: | # this will include new lines to allow paragraphs
+#     - In these tasks, data analytical skills related to <b>Matrix Completion</b>, <b>Non-Negative Matrix Factorization</b>, and <b>Singular Value Decomposition</b> are applied.
+
+
+# - layout: left
+#   company: Integrating Web Data on Video Games and Companies
+#   github: kuanmin/projects/tree/master/Integrating%20Web%20Data
+#   job_title: <mark>Python</mark> <mark>Java</mark>   <mark>XML</mark>   
+#   dates: <i>MapForce</i> 
+#   description: | # this will include new lines to allow paragraphs
+#     - In this project, we worked with Python and Java libraries BeautifulSoup, Selenium WebDriver, and Jsoup3. And data analytical skills related to <b>Data Translation</b>, <b>Identity Resolution</b>, and <b>Data Fusion</b> are applied.
+#     - We focus on building an integrated database of video games and video game developers which will be informative to video game players and professionals working in the industry alike. Our combined data can offer interesting new visions that can assist on business decision making and drive video game businesses to a success. Simply by exploring and mining this data, one will be able to gain a better understanding of current video game trends. 
+#     - For example, our integrated data can provide answers on manifold questions such as ‘Which game platform currently generates the most revenue?’, ‘Which genre types are most popular among the users?’, ’How does game experts’ judgment affect the market sales‘, or ‘How does the revenue of games differ from the worldwide regions?’.
+
+

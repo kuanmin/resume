@@ -1,0 +1,147 @@
+# Site
+repository: kuanmin/resume
+favicon: images/favicon.ico
+
+# Personal info
+name: Chen, Kuan Min 陳寬旻
+title: Actuarial Data Science research 精算資料科學
+email: kuanminchen.km@gmail.com
+website: www.github.com/kuanmin/
+phone: +49 15908423868 (DE), +886 923375428 (TW)
+# phone(TW): +886 923 375 428 
+
+# Social links
+# twitter_username: facespics
+github_username: kuanmin
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+linkedin_username: kuan-min-chen-215499177
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  
+  Hi, I am Kuan, a young professional, passionate in both user experiences and actuarial data science. I recently graduated from University of Mannheim. With great interest in researching and analyzing real-world data problems, I am looking forward to new challenges and starting an exciting adventure!
+  <br>
+  <br>
+
+  ------__Actuarial Data Science__ is A Thing. __精算科學__ 與 __資料科學__ 的結合正在發生。------
+
+  <br>
+
+  _The successful integration of_ ___actuaries___ _and_ ___data scientists___ _will be critical to enhancing the value of analytics initiatives._
+  
+  ___精算師___ _和_ ___資料科學家___ _的成功整合對於提高分析能量至關重要_。
+
+  [_- by_ __PwC 資誠管理顧問公司__](https://www.pwc.com/us/en/insurance/publications/assets/pwc-life-actuaries-data-scientists-role.pdf)
+
+  ___Advanced analytics___ _and_ ___big data___ _are fundamentally changing_ ___actuarial work.___
+
+  ___先進的分析技術___ _和_ ___大數據研究___ _徹底改變了_ ___精算科學___。
+
+  [_- by_ __KPMG 安侯建業管理顧問公司__](https://home.kpmg/xx/en/home/insights/2018/12/actuaries-of-the-future-fs.html) 
+
+  ___The future of actuaries___ _is rapidly evolving as technologies like_ ___AI___ _,_ ___machine learning___ _, and_ ___automation___ _create a new future of work._
+
+  _隨著_ ___人工智慧___、___機器學習___ _和_ ___自動化___ _等技術帶來了全新的工作型態，_ ___精算科學___ _也正快速的改變與進化_。
+
+  [_- by_ __Deloitte 勤業眾信管理顧問公司__](https://www2.deloitte.com/us/en/pages/human-capital/solutions/future-of-actuarial-profession.html)
+
+  ___The Certificate in Data Science___ _is part of the IFoA’s lifelong learning agenda._
+
+  _英國精算師協會長期致力於_ ___資料科學領域___ _的研究與發展_。
+
+  [_- by_ __Institute and Faculty of Actuaries (IFoA) 英國精算師協會__](https://www.actuaries.org.uk/learn-and-develop/lifelong-learning/certificate-data-science) 
+
+  ___Machine learning___ _is rapidly transforming how today's industries function._
+
+  ___機器學習___ _正迅速地改變現今各行各業的運作模式_。
+
+  [_- by_ __Society of Actuaries (SOA) 美國精算師協會__](https://www.soa.org/prof-dev/recordings/2019-practical-guide/) 
+
+  ___Actuarial Data Science___ _working group of Swiss Association of Actuaries._
+
+  _瑞士精算師協會成立_ ___精算資料科學組___。
+
+  [_- by_ __Swiss Association of Actuaries 瑞士精算師協會__](https://www.actuarialdatascience.org/Home/)
+
+# [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+# <br>
+
+# My study and work have well prepared me for this program. Two master degrees in statistics and data science have well equipped me with good understanding of up-to-date approaches in statistics, data analysis, and data management. Years of working in insurance company provided me the basic training and the first experience in the application of actuarial science in insurance industry.
+
+# Nevertheless, I have always been looking for opportunities to advance myself in actuarial science, so to keep up with the ever-changing world. First and foremost, the career choices have shown my proactive attitude on gaining insights across the actuarial value chain, where I decided to transfer my working fields from the pricing team to valuation team, and, later, to risk management team. Also, the transcript for SOA exams can tell that I have made efforts to excel in my chosen fields of interest and endeavor. In addition, the choice of my second master program and the data-driven attempts whilst working at Allianz have expressed my eagerness to learn and broaden my knowledge, and, importantly, to always challenge myself with co-everything and ever-advancing technologies.
+
+# I am now looking forward to new challenges to utilize my multiple educational backgrounds and practical experiences in many areas, as well as learn more about real-world applications in data analytics field!
+
+# Motto - "Do not go where the path may lead. Instead, go where there is no path and leave a trail" by Ralph Waldo Emerson
+
+# More Section
+# more_title: A Little More About Me 1
+# more_content: | # this will include new lines to allow paragraphs
+#   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#    - Rock climbing
+#    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+more_title: Achievements
+more_content: | # this will include new lines to allow paragraphs
+  [__Society of Actuaries__](https://www.soa.org/) - exams passed __美國精算師協會__ 考試通過
+   - Short-Term Actuarial Mathematics
+   - Long-Term Actuarial Mathematics 
+   - Statistics for Risk Modeling 
+   - Financial Mathematics 
+   - Probability 
+   - Economics 
+   - Mathematical Statistics 
+   - Accounting and Finance 
+
+
+# more_title: The importance of data science in actuarial science
+# more_content: | # this will include new lines to allow paragraphs
+#   [The successful integration of actuaries and data scientists will be critical to enhancing the value of analytics initiatives.](https://www.pwc.com/us/en/insurance/publications/assets/pwc-life-actuaries-data-scientists-role.pdf) - PwC
+
+#   [Advanced analytics and big data are fundamentally changing actuarial work.](https://home.kpmg/xx/en/home/insights/2018/12/actuaries-of-the-future-fs.html) - KPMG
+
+#   [Actuarial Data Science working group of Swiss Association of Actuaries.](https://www.actuarialdatascience.org/Home/) - Swiss Association of Actuaries.
+
+#   [The future of actuaries is rapidly evolving as technologies like AI, machine learning, and automation create a new future of work.](https://www2.deloitte.com/us/en/pages/human-capital/solutions/future-of-actuarial-profession.html) - Deloitte
+
+#   [The Certificate in Data Science is part of the IFoA’s lifelong learning agenda.](https://www.actuaries.org.uk/learn-and-develop/lifelong-learning/certificate-data-science) - Institute and Faculty of Actuaries (IFoA)
+
+#   [Machine learning is rapidly transforming how today's industries function.](https://www.soa.org/prof-dev/recordings/2019-practical-guide/) - Society of Actuaries (SOA)
+
+
+# Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#   - Rock climbing
+#   - Gaming
+#   - Knitting
+#   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+# Projects Section
+projects_title: Portfolio
+
+# Experience Section
+experience_title: Experience
+
+# Education Section
+educaton_title: Education
+
+
+# Footer
+footer_show_references: False
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
