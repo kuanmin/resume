@@ -4,7 +4,7 @@
   dates: 2017 - 2020
   qualification: MSc Data Science
   quote: >
-    University of Mannheim, the Harvard of Germany, is one of the leading higher education institutions in Germany. 
+    The Harvard of Germany, the leading education institutions in Germany. 
   description: | # this will include new lines to allow paragraphs
     <mark>Master's thesis</mark> - <b>Revisiting Ensembles for Knowledge Graph Embeddings</b>
     <br>In this work, we study the ensembles in KGEs with better trained baselines. Additionally, fine-tune and joint learning were further experimented on ensembles. The study shows that, although ensembles generally outperformed single KGE models with better trained baselines, fine-tuning has shown minor progress comparing to established ensembles. Also, the approaches by joint learning lead to outputs inferior to established ensembles with the same training specification.
@@ -18,7 +18,7 @@
   dates: 2011 - 2013
   qualification: MSc Statistics
   quote: >
-    National Chengchi University is one of Taiwan's top universities and is well-known for its humanities and social sciences research.
+    Taiwan's top university, well-known for humanities and social sciences research.
   description: | # this will include new lines to allow paragraphs
     <mark>Master's thesis</mark> - <b>Forecasting of time series based on vector autoregression model and maximum cross-correlation</b>
     <br>In this work, we provide a new multivariate-time series prediction method based on the concept of maximum cross-correlation, enhancing the prediction performance using vector autoregression model(VAR). Using the mean prediction squared errors (MPSE) as assessment criterion, the prediction method based on the maximum cross-correlation best performs under all prediction periods.
@@ -30,7 +30,7 @@
   dates: 2005 - 2009
   qualification: BSc Information and Finance Management
   quote: >
-    National Chiao Tung University is one of the top educational institutions in Taiwan.
+    The top educational institutions in Taiwan.
   description: | # this will include new lines to allow paragraphs
     3.65 (GPA)  <br>During college years, I acquired fundamental principles and practice in finance and information technology. 
 
