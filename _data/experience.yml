@@ -227,7 +227,7 @@
   # quote: >
   #   Taiwan’s biggest life insurance company.
   description: | # this will include new lines to allow paragraphs
-    [<b>Allianz Global Benefits</b>](www.allianzglobalbenefits.com)
+    [<b>Allianz Global Benefits</b>](https://www.allianzglobalbenefits.com)
 
     --- Reference: [Link](https://github.com/kuanmin/projects/blob/master/reference/Reference_Allianz.pdf)
     
