@@ -217,9 +217,28 @@
 
 
 
+- layout: left
+  company: <mark>Reference</mark> # <br>國泰人壽
+  # company: Taiwan Life
+  # link: www.cathaylife.com.tw
+  # link: www.taiwanlife.com
+  # job_title: Analyst
+  # dates: July 2013 - February 2015
+  # quote: >
+  #   Taiwan’s biggest life insurance company.
+  description: | # this will include new lines to allow paragraphs
+    <b>Allianz Global Benefits</b> 
+    --- Reference: [Link](https://github.com/kuanmin/projects/blob/master/reference/Reference_Allianz.pdf)
+    --- Supervisor: <b>Muñoz Sanchez, Luis</b> [LinkedIn](https://www.linkedin.com/in/luis-munoz-sanchez/)
+    --- Team: <b>Prieto Montes de Oca, Pablo</b> [LinkedIn](https://www.linkedin.com/in/pablo-prieto-mdo/)
+
+
+    --- [<b>Marketing Strategy for Individual Life Insurance</b>](https://home.kpmg/xx/en/home/insights/2018/12/actuaries-of-the-future-fs.html) 
+
+    --- Present the use of big data driving business change across the insurance industry, especial
 
 - layout: left
-  company: <b><mark>CONFERENCE</mark></b> # <br>國泰人壽
+  company: <mark>Conference</mark> # <br>國泰人壽
   # company: Taiwan Life
   # link: www.cathaylife.com.tw
   # link: www.taiwanlife.com
@@ -230,27 +249,16 @@
   description: | # this will include new lines to allow paragraphs
     [<b><mark>The Foundation for the Advancement of Life Insurance in Asia (FALIA)</mark></b>](https://www.falia.or.jp/) 
 
-    --- [<b>Marketing Strategy for Individual Life Insurance</b>](https://home.kpmg/xx/en/home/insights/2018/12/actuaries-of-the-future-fs.html) 
+    --- <b>2021.9.8 to 2021.9.10</b> - [<b>Marketing Strategy for Individual Life Insurance</b>](https://home.kpmg/xx/en/home/insights/2018/12/actuaries-of-the-future-fs.html)
 
-    --- Present the use of big data driving business change across the insurance industry, especially, demestrating how the technologies enable insurance companies to determine risks more precisely.
+    --- Certificate: [Link](https://github.com/kuanmin/projects/blob/master/extracurricular/FALIA/CertifyLetter_KuanMinChen.pdf)
 
-    [<b><mark>The Foundation for the Advancement of Life Insurance in Asia (FALIA)</mark></b>](https://www.falia.or.jp/) 
+    --- Focus on the use of big data driving business change across the insurance industry and, especially, how the technologies enable insurance companies to determine risks more precisely.
 
-    --- [<b>Marketing Strategy for Individual Life Insurance</b>](https://home.kpmg/xx/en/home/insights/2018/12/actuaries-of-the-future-fs.html) 
+    [<b><mark>Allianz</mark></b>](https://www.allianz.com/en.html) 
 
-    --- Present the use of big data driving busines
+    --- <b>2019.11.19</b> - [<b>Allianz Global Data Summit 2019</b> (<b>Munich, Germany</b>)](https://home.kpmg/xx/en/home/insights/2018/12/actuaries-of-the-future-fs.html)
 
+    --- Focus on Allianz Intelligence platform using machine techniques to enormously reduce labour effort and hours by analyzing legal documents and extracting important data points and clauses, along with the impacts and the future evolution in insurance business.
 
-
-- layout: left
-  company: <b><mark>REFERENCE</mark></b> # <br>國泰人壽
-  # company: Taiwan Life
-  # link: www.cathaylife.com.tw
-  # link: www.taiwanlife.com
-  # job_title: Analyst
-  # dates: July 2013 - February 2015
-  # quote: >
-  #   Taiwan’s biggest life insurance company.
-  description: | # this will include new lines to allow paragraphs
-    [<b>Allianz Global Benefits</b>](https://www.falia.or.jp/) 
 
