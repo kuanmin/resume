@@ -230,6 +230,7 @@
   description: | # this will include new lines to allow paragraphs
     <b>Regularly review sale products and develop new products.</b>
     - Analyze the financial performance under extreme scenarios, i.e., catastrophic claims, volatile interest rates;
+    
     --- fff
     - Analyze the profitability regarding the differences between nominal (assumed) and effective (empirical) rates, i.e., expense rate, mortality rate, interest rate.
 
