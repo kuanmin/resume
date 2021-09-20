@@ -228,30 +228,11 @@
   # quote: >
   #   Taiwan’s biggest life insurance company.
   description: | # this will include new lines to allow paragraphs
-    <b>Regularly review sale products and develop new products.</b>
-    - Analyze the financial performance under extreme scenarios, i.e., catastrophic claims, volatile interest rates;
-    
-    --- fff
-    - Analyze the profitability regarding the differences between nominal (assumed) and effective (empirical) rates, i.e., expense rate, mortality rate, interest rate.
+    <b><mark>The Foundation for the Advancement of Life Insurance in Asia (FALIA)</mark></b>
+    --- <b>Marketing Strategy for Individual Life Insurance</b>
+    --- Present the use of big data driving business change across the insurance industry, especially, demestrating how the technologies enable insurance companies to determine risks more precisely.
 
-    <br>
-    <b>Regularly review existing clients and explore new clients.</b>
-    - Apply statistical approaches to categorize clients on demographic information, line of business, amount insured, incidence rate, and so on;
-    - Apply qualitative analysis to fine grand the classification, i.e., confirmatory factor analysis (CFA), and structural equation modeling (SEM) analysis;
-    - Prototype new products and design marketing strategies.
+    <b><mark>The Foundation for the Advancement of Life Insurance in Asia (FALIA)</mark></b>
+    --- [<b>Marketing Strategy for Individual Life Insurance</b>](https://home.kpmg/xx/en/home/insights/2018/12/actuaries-of-the-future-fs.html) 
+    --- Present the 
 
-    <br>
-    <b>Regularly conduct market analyses.</b>
-    - Utilize open financial and economic database, Bloomberg terminals, and other search tools;
-    - Monitor the performance of investment instruments, i.e., RMBS, ETFs, CMBS;
-    - Perform economic analysis and risk assessment.
-
-    <br>
-    <b>Perform compliance reviews and register new products.</b>
-
-    <br>
-    <b>Programing:</b>
-    - R
-    - SAS
-    - SQL
-    - Excel VBA
