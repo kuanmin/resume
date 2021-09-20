@@ -219,7 +219,7 @@
 
 
 - layout: left
-  company: <b>CONFERENCE</b> # <br>國泰人壽
+  company: <b><mark>CONFERENCE</mark></b> # <br>國泰人壽
   # company: Taiwan Life
   # link: www.cathaylife.com.tw
   # link: www.taiwanlife.com
@@ -228,15 +228,29 @@
   # quote: >
   #   Taiwan’s biggest life insurance company.
   description: | # this will include new lines to allow paragraphs
-    <b><mark>The Foundation for the Advancement of Life Insurance in Asia (FALIA)</mark></b>
-
-    --- <b>Marketing Strategy for Individual Life Insurance</b>
-
-    --- Present the use of big data driving business change across the insurance industry, especially, demestrating how the technologies enable insurance companies to determine risks more precisely.
-
-    <b><mark>The Foundation for the Advancement of Life Insurance in Asia (FALIA)</mark></b>
+    [<b><mark>The Foundation for the Advancement of Life Insurance in Asia (FALIA)</mark></b>](https://www.falia.or.jp/) 
 
     --- [<b>Marketing Strategy for Individual Life Insurance</b>](https://home.kpmg/xx/en/home/insights/2018/12/actuaries-of-the-future-fs.html) 
 
     --- Present the use of big data driving business change across the insurance industry, especially, demestrating how the technologies enable insurance companies to determine risks more precisely.
+
+    [<b><mark>The Foundation for the Advancement of Life Insurance in Asia (FALIA)</mark></b>](https://www.falia.or.jp/) 
+
+    --- [<b>Marketing Strategy for Individual Life Insurance</b>](https://home.kpmg/xx/en/home/insights/2018/12/actuaries-of-the-future-fs.html) 
+
+    --- Present the use of big data driving busines
+
+
+
+- layout: left
+  company: <b><mark>REFERENCE</mark></b> # <br>國泰人壽
+  # company: Taiwan Life
+  # link: www.cathaylife.com.tw
+  # link: www.taiwanlife.com
+  # job_title: Analyst
+  # dates: July 2013 - February 2015
+  # quote: >
+  #   Taiwan’s biggest life insurance company.
+  description: | # this will include new lines to allow paragraphs
+    [<b>Allianz Global Benefits</b>](https://www.falia.or.jp/) 
 
