@@ -219,7 +219,7 @@
 
 
 - layout: left
-  company: CONFERENCE # <br>國泰人壽
+  company: <b>CONFERENCE</b> # <br>國泰人壽
   # company: Taiwan Life
   # link: www.cathaylife.com.tw
   # link: www.taiwanlife.com
@@ -229,10 +229,14 @@
   #   Taiwan’s biggest life insurance company.
   description: | # this will include new lines to allow paragraphs
     <b><mark>The Foundation for the Advancement of Life Insurance in Asia (FALIA)</mark></b>
+
     --- <b>Marketing Strategy for Individual Life Insurance</b>
+
     --- Present the use of big data driving business change across the insurance industry, especially, demestrating how the technologies enable insurance companies to determine risks more precisely.
 
     <b><mark>The Foundation for the Advancement of Life Insurance in Asia (FALIA)</mark></b>
+
     --- [<b>Marketing Strategy for Individual Life Insurance</b>](https://home.kpmg/xx/en/home/insights/2018/12/actuaries-of-the-future-fs.html) 
-    --- Present the 
+
+    --- Present the use of big data driving business change across the insurance industry, especially, demestrating how the technologies enable insurance companies to determine risks more precisely.
 
