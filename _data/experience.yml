@@ -217,49 +217,49 @@
 
 
 
-- layout: left
-  company: <mark>Reference</mark> # <br>國泰人壽
-  # company: Taiwan Life
-  # link: www.cathaylife.com.tw
-  # link: www.taiwanlife.com
-  # job_title: Analyst
-  # dates: July 2013 - February 2015
-  # quote: >
-  #   Taiwan’s biggest life insurance company.
-  description: | # this will include new lines to allow paragraphs
-    [<b>Allianz Global Benefits</b>](https://www.allianzglobalbenefits.com)
+# - layout: left
+#   company: <mark>Reference</mark> # <br>國泰人壽
+#   # company: Taiwan Life
+#   # link: www.cathaylife.com.tw
+#   # link: www.taiwanlife.com
+#   # job_title: Analyst
+#   # dates: July 2013 - February 2015
+#   # quote: >
+#   #   Taiwan’s biggest life insurance company.
+#   description: | # this will include new lines to allow paragraphs
+#     [<b>Allianz Global Benefits</b>](https://www.allianzglobalbenefits.com)
 
-    --- Reference: [Link](https://github.com/kuanmin/projects/blob/master/reference/Reference_Allianz.pdf)
+#     --- Reference: [Link](https://github.com/kuanmin/projects/blob/master/reference/Reference_Allianz.pdf)
     
-    --- Supervisor: <b>Muñoz Sanchez, Luis</b> [LinkedIn](https://www.linkedin.com/in/luis-munoz-sanchez/)
+#     --- Supervisor: <b>Muñoz Sanchez, Luis</b> [LinkedIn](https://www.linkedin.com/in/luis-munoz-sanchez/)
     
-    --- Team: <b>Prieto Montes de Oca, Pablo</b> [LinkedIn](https://www.linkedin.com/in/pablo-prieto-mdo/)
+#     --- Team: <b>Prieto Montes de Oca, Pablo</b> [LinkedIn](https://www.linkedin.com/in/pablo-prieto-mdo/)
 
 
-- layout: left
-  company: <mark>Conference</mark> # <br>國泰人壽
-  # company: Taiwan Life
-  # link: www.cathaylife.com.tw
-  # link: www.taiwanlife.com
-  # job_title: Analyst
-  # dates: July 2013 - February 2015
-  # quote: >
-  #   Taiwan’s biggest life insurance company.
-  description: | # this will include new lines to allow paragraphs
-    [<b>The Foundation for the Advancement of Life Insurance in Asia (FALIA)</b>](https://www.falia.or.jp/) 
+# - layout: left
+#   company: <mark>Conference</mark> # <br>國泰人壽
+#   # company: Taiwan Life
+#   # link: www.cathaylife.com.tw
+#   # link: www.taiwanlife.com
+#   # job_title: Analyst
+#   # dates: July 2013 - February 2015
+#   # quote: >
+#   #   Taiwan’s biggest life insurance company.
+#   description: | # this will include new lines to allow paragraphs
+#     [<b>The Foundation for the Advancement of Life Insurance in Asia (FALIA)</b>](https://www.falia.or.jp/) 
 
-    --- <b>2021.9.8 to 2021.9.10</b> - [<b>Marketing Strategy for Individual Life Insurance</b> (<b>Yokohama, Japan</b>)](https://www.falia.or.jp/forthcomig_seminar_japan.html)
+#     --- <b>2021.9.8 to 2021.9.10</b> - [<b>Marketing Strategy for Individual Life Insurance</b> (<b>Yokohama, Japan</b>)](https://www.falia.or.jp/forthcomig_seminar_japan.html)
 
-    --- Certificate: [Link](https://github.com/kuanmin/projects/blob/master/extracurricular/FALIA/CertifyLetter_KuanMinChen.pdf)
+#     --- Certificate: [Link](https://github.com/kuanmin/projects/blob/master/extracurricular/FALIA/CertifyLetter_KuanMinChen.pdf)
 
-    --- Focus on the use of big data driving business change across the insurance industry and, especially, how the technologies enable insurance companies to determine risks more precisely.
+#     --- Focus on the use of big data driving business change across the insurance industry and, especially, how the technologies enable insurance companies to determine risks more precisely.
 
-    [<b>The Allianz Group</b>](https://www.allianz.com/en.html) 
+#     [<b>The Allianz Group</b>](https://www.allianz.com/en.html) 
 
-    --- <b>2019.11.19</b> - [<b>Allianz Global Data Summit 2019</b> (<b>Munich, Germany</b>)](https://globaldigitalfactory.allianz.com/)
+#     --- <b>2019.11.19</b> - [<b>Allianz Global Data Summit 2019</b> (<b>Munich, Germany</b>)](https://globaldigitalfactory.allianz.com/)
 
-    --- Posts/Materials: [Link-1](https://twitter.com/christofmascher/status/1196818001275826176), [Link-2](https://github.com/kuanmin/projects/blob/master/extracurricular/Allianz/ds_00.pdf), [Link-3](https://github.com/kuanmin/projects/blob/master/extracurricular/Allianz/ds_01.jpg), [Link-4](https://github.com/kuanmin/projects/blob/master/extracurricular/Allianz/ds_02.jpg)
+#     --- Posts/Materials: [Link-1](https://twitter.com/christofmascher/status/1196818001275826176), [Link-2](https://github.com/kuanmin/projects/blob/master/extracurricular/Allianz/ds_00.pdf), [Link-3](https://github.com/kuanmin/projects/blob/master/extracurricular/Allianz/ds_01.jpg), [Link-4](https://github.com/kuanmin/projects/blob/master/extracurricular/Allianz/ds_02.jpg)
 
-    --- Focus on Allianz Intelligence platform using machine techniques to enormously reduce labour effort and hours by analyzing legal documents and extracting important data points and clauses, along with the impacts and the future evolution in insurance business.
+#     --- Focus on Allianz Intelligence platform using machine techniques to enormously reduce labour effort and hours by analyzing legal documents and extracting important data points and clauses, along with the impacts and the future evolution in insurance business.
 
 
