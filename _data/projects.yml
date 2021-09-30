@@ -63,7 +63,7 @@
 # data cleaning 資料清理/ feature extraction 特徵提取/ modeling 模型建構/ validation模型驗證/ classification 分類/ clustering 聚類/ k-nearest neighbor (KNN) 近鄰分類/ Bayesian network 貝氏網路/ support vector machine (SVM) 支援向量機/
 
 - layout: left
-  company: Projects & Works  #作品集
+  company: <mark>Projects & Works</mark>  #作品集
   # link: https://github.com/kuanmin/projects/blob/master/README.md
   # github: github.com/kuanmin/projects/blob/master/README.md
   # job_title: [link](https://github.com/kuanmin/projects/blob/master/README.md)
