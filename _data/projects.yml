@@ -12,7 +12,7 @@
   # Click on the github link above to see codes and example outputs!
 
 - layout: left
-  company: Examples for Actuarial Data Science by Swiss Association of Actuaries  #精算資料科學的應用
+  company: Examples of Actuarial Data Science by Swiss Association of Actuaries  #精算資料科學的應用
   # link: https://drive.google.com/drive/folders/1DeMCJPetOc0Aq5RZEnFBCb7n4_ozlXHO?usp=sharing
   # github: github.com/kuanmin/projects/blob/master/README.md
   # job_title: <mark>SAS</mark>
@@ -48,7 +48,7 @@
  #__------__ 運用可解構AI建立理賠頻率模型
 
 - layout: left
-  company: <mark>Examples for Machine Learning by Me</mark> #機器學習的應用
+  company: <mark>My Machine Learning Demos</mark> #機器學習的應用
   # link: https://drive.google.com/drive/folders/1DeMCJPetOc0Aq5RZEnFBCb7n4_ozlXHO?usp=sharing
   # github: github.com/kuanmin/projects/blob/master/README.md
   # job_title: <mark>SAS</mark>
