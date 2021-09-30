@@ -70,6 +70,8 @@
   # dates: <i>SAS</i>
   # dates: <i> March</i> <br> <i> ddddddd</i> 
   description: | # this will include new lines to allow paragraphs
+    Here are some projects and works and examples for actuarial data science and machine learning. Some are interesting, useful, and delicate, some reach positive and fruitful results, and some are rather challenging. I have learned many skills through the processes and I am very proud of having them in my portfolio.
+
     [__link__](https://github.com/kuanmin/projects/blob/master/README.md)
 
 
