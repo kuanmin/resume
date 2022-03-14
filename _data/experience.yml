@@ -1,9 +1,24 @@
 
 - layout: left
+  company: Deloitte # <br>財團法人保險事業發展中心
+  link: www.deloitte.com/
+  job_title: Actuarial Consultant
+  dates: December 2021 - present
+  quote: >
+    The leading global provider of audit and assurance, consulting, financial advisory and risk advisory.
+  description: | # this will include new lines to allow paragraphs
+    <b>Facilitate the annual review process of Appointed Actuary report (AA Report) and Risk-Based Capital standards (RBC) in Taiwan.</b>
+
+    <br>
+    <b>Facilitate the industrial implementation of IFRS 17 in Taiwan.</b>
+
+
+
+- layout: left
   company: Taiwan Insurance Institute # <br>財團法人保險事業發展中心
   link: www.tii.org.tw/tii/english/index.html
   job_title: Researcher
-  dates: February 2021 - present
+  dates: February 2021 - November 2021
   quote: >
     The leading authority to regulatory policy settings in Taiwan.
   description: | # this will include new lines to allow paragraphs
