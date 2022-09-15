@@ -7,7 +7,7 @@
   quote: >
     The leading global provider of audit and assurance, consulting, financial advisory and risk advisory.
   description: | # this will include new lines to allow paragraphs
-    - Participate in Sun Life, SCOR, Cardif and FWD’s projects. 
+    - Participate in <i>Sun Life</i>, <i>SCOR</i>, <i>Cardif</i> and <i>FWD</i>’s projects. 
     - Analyze and closely monitor the impact of changes in various strategic factors affecting risk exposure and financial condition.
     - Develope actuarial models to perform analyses for actuarial management.
 
@@ -20,13 +20,13 @@
   quote: >
     The leading authority to regulatory policy settings in Taiwan.
   description: | # this will include new lines to allow paragraphs
-    <b>Coordinate and facilitate the industrial implementation of Insurance Capital Standards (ICS 2.0) in Taiwan, duties include but not limited to translating ICS 2.0 standards and lecturing to the industry, and facilitating quantitative impact analyses (QIS) in 2021.</b>
+    - Coordinate and facilitate the industrial implementation of Insurance Capital Standards (ICS 2.0) in Taiwan, duties include but not limited to translating ICS 2.0 standards and lecturing to the industry, and facilitating quantitative impact analyses (QIS) in 2021.</b>
 
     - Lecture ICS 2.0 standards to the industry and facilitate quantitative impact analyses Facilitate the industrial implementation of IFRS 17.
     - Review Appointed Actuary report (AA Report) and Risk-Based Capital standards (RBC).
     - Support companies with valuation approaches for insurance liabilities to address regulato-ry requirements.
     - Perform asset and interest rate modeling with Python/Matlab/VBA.
-    
+
     <br>
     <b>Programing:</b>
     - Python
