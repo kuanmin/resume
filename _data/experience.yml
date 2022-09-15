@@ -1,17 +1,15 @@
 
 - layout: left
-  company: Deloitte # <br>財團法人保險事業發展中心
-  link: www.deloitte.com/
+  company: Deloitte # <br>Deloitte
+  link: www.deloitte.com
   job_title: Actuarial Consultant
   dates: December 2021 - present
   quote: >
     The leading global provider of audit and assurance, consulting, financial advisory and risk advisory.
   description: | # this will include new lines to allow paragraphs
-    <b>Facilitate the annual review process of Appointed Actuary report (AA Report) and Risk-Based Capital standards (RBC) in Taiwan.</b>
-
-    <br>
-    <b>Facilitate the industrial implementation of IFRS 17 in Taiwan.</b>
-
+    - Participate in Sun Life, SCOR, Cardif and FWD’s projects. 
+    - Analyze and closely monitor the impact of changes in various strategic factors affecting risk exposure and financial condition.
+    - Develope actuarial models to perform analyses for actuarial management.
 
 
 - layout: left
@@ -24,21 +22,11 @@
   description: | # this will include new lines to allow paragraphs
     <b>Coordinate and facilitate the industrial implementation of Insurance Capital Standards (ICS 2.0) in Taiwan, duties include but not limited to translating ICS 2.0 standards and lecturing to the industry, and facilitating quantitative impact analyses (QIS) in 2021.</b>
 
-    <br>
-    <b>Facilitate the annual review process of Appointed Actuary report (AA Report) and Risk-Based Capital standards (RBC) in Taiwan.</b>
-
-    <br>
-    <b>Facilitate the industrial implementation of IFRS 17 in Taiwan.</b>
-
-    <br>
-    <b>Support companies with valuation approaches for insurance liabilities to address regulatory requirements.</b>
-
-    <br>
-    <b>Perform asset and liability modeling with Python and Matlab.</b>
-
-    <br>
-    <b>Conduct ad-hoc research requested from the Insurance Bureau.</b>
-
+    - Lecture ICS 2.0 standards to the industry and facilitate quantitative impact analyses Facilitate the industrial implementation of IFRS 17.
+    - Review Appointed Actuary report (AA Report) and Risk-Based Capital standards (RBC).
+    - Support companies with valuation approaches for insurance liabilities to address regulato-ry requirements.
+    - Perform asset and interest rate modeling with Python/Matlab/VBA.
+    
     <br>
     <b>Programing:</b>
     - Python
