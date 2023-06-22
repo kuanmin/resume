@@ -7,9 +7,12 @@
   quote: >
     The leading global provider of audit and assurance, consulting, financial advisory and risk advisory.
   description: | # this will include new lines to allow paragraphs
-    - Participate in <i>Sun Life</i>, <i>SCOR</i>, <i>Cardif</i> and <i>FWD</i>’s projects. 
-    - Analyze and closely monitor the impact of changes in various strategic factors affecting risk exposure and financial condition.
-    - Develope actuarial models to perform analyses for actuarial management.
+    - Work with clients <i>Gen Re</i>, <i>Sun Life</i>, <i>SCOR</i>, <i>Cardif</i>, <i>RGA</i>, and <i>FWD</i>. 
+    - Participate in projects related to Solvency II, IFRS, and US GAAP regulations, reserv-ing methodologies, and other areas of life and health insurance.
+    - Create and update actuarial models, generate cash flow projections under Solvency II, IFRS, and US GAAP standards.
+    - Review and set reserves under Solvency II, IFRS, and US GAAP regimes.
+    - Identify the benefits associated with the change and maximize benefit realization.
+    - Unwind transformations made for client purposed with a view to recreating those using local data model.
 
 
 - layout: left
@@ -20,19 +23,18 @@
   quote: >
     The leading authority to regulatory policy settings in Taiwan.
   description: | # this will include new lines to allow paragraphs
-    - Coordinate and facilitate the industrial implementation of Insurance Capital Standards (ICS 2.0) in Taiwan, duties include but not limited to translating ICS 2.0 standards and lecturing to the industry, and facilitating quantitative impact analyses (QIS) in 2021.</b>
-
-    - Lecture ICS 2.0 standards to the industry and facilitate quantitative impact analyses Facilitate the industrial implementation of IFRS 17.
-    - Review Appointed Actuary report (AA Report) and Risk-Based Capital standards (RBC).
+    - Write report and bring to the attention key Solvency II and IFRS issues, areas of judgement and technical developments.
+    - Interpret EIOPA guidance to understand the implications on methodology, calculations and Pillar III reporting requirements.
+    - Develop process for technical provisions and associated yield curves for reporting.
     - Support companies with valuation approaches for insurance liabilities to address regulato-ry requirements.
-    - Perform asset and interest rate modeling with Python/Matlab/VBA.
+    - Facilitate the industrial implementation of IFRS and quantitative impact analyses (QIS).
 
-    <br>
-    <b>Programing:</b>
-    - Python
-    - Matlab
-    - Excel VBA
-    - R
+   # <br>
+   # <b>Programing:</b>
+   # - Python
+   # - Matlab
+   # - Excel VBA
+   # - R
 
 
 - layout: left
@@ -58,12 +60,12 @@
     <b>Build international databases in healthcare related topics to strengthen the capacity for client analysis and marketing strategy.</b>
     - To strengthen the capacity for client analysis and marketing strategy, databases were built with topics in health expenditure, claim amount, disease, and industry, according to multiple industrial classification standards and public health databases, i.e., WHO, OECD, MIMIC from MIT Lab.
  
-    <br>
-    <b>Programing:</b>
-    - Python
-    - R
-    - SQL
-    - Excel VBA
+   # <br>
+   # <b>Programing:</b>
+   # - Python
+   # - R
+   # - SQL
+   # - Excel VBA
 
   #   <b>應用潛在語義分析增加有效數據量83%：</b>
   #   - 由於醫療紀錄中，疾病代碼遣失，導致有效資料量過少、分析結果不具參考性。對疾病敘述進行潛在語義分析(LSA)分析，並輔以MIT麻省理工學院的MIMIC資料庫，還原疾病代碼，有效數據量增加83%。
@@ -129,13 +131,13 @@
     - Evaluate embedded value (EV), value of new business (VNB), fair value of liabilities, guaranty fund.
 
 
-    <br>
-    <b>Programing:</b>
-    - R
-    - SQL
-    - Excel VBA
-    - Linux Bash
-    - FoxPro
+  #  <br>
+  #  <b>Programing:</b>
+  #  - R
+  #  - SQL
+  #  - Excel VBA
+  #  - Linux Bash
+  #  - FoxPro
 
   # <b>提升抽樣檢測校果，減少人力成本、紅利發放錯誤率下降82%：</b>
   # - 原抽樣驗證方法，已無法有效檢誤，逐年增長的分紅保單件之紅利發放金額；發放金額錯誤率增加，隨之後續修正成本大幅提高。考量客戶資訊、險種、過去分紅紀錄，採用進階抽樣方法，錯誤率進而下降82%。
@@ -180,12 +182,12 @@
     <br>
     <b>Perform compliance reviews and register new products.</b>
 
-    <br>
-    <b>Programing:</b>
-    - R
-    - SAS
-    - SQL
-    - Excel VBA
+  #  <br>
+  #  <b>Programing:</b>
+  #  - R
+  #  - SAS
+  #  - SQL
+  #  - Excel VBA
 
 
   # <b>定期檢視架上商品及開發新商品：</b>
